@@ -20,3 +20,7 @@ You can get the friends.json as follows in Firefox:
 * Type in friends
 * Right click the POST, -> Copy value -> Copy response
 * Save this to the friends.json file
+
+Note, fuzzy matching is not 100% accurate, but you can verify the output yourself. 
+
+An example is show in example_output.png
