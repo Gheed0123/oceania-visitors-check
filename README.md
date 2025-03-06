@@ -24,3 +24,5 @@ You can get the friends.json as follows in Firefox:
 Note, fuzzy matching is not 100% accurate, but you can verify the output yourself. 
 
 An example is show in example_output.png
+
+The first column shows the friend name, second column the reputation, third column the input
