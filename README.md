@@ -19,4 +19,4 @@ You can get the friends.json as follows in Firefox:
 * Load up the game
 * Type in friends
 * Right click the POST, -> Copy value -> Copy response
-* Save this to a file
+* Save this to the friends.json file
